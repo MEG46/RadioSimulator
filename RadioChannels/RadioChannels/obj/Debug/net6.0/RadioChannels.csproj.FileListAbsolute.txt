@@ -1,0 +1,15 @@
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\bin\Debug\net6.0\RadioChannels.exe
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\bin\Debug\net6.0\RadioChannels.deps.json
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\bin\Debug\net6.0\RadioChannels.runtimeconfig.json
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\bin\Debug\net6.0\RadioChannels.dll
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\bin\Debug\net6.0\RadioChannels.pdb
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.csproj.AssemblyReference.cache
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.AssemblyInfoInputs.cache
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.AssemblyInfo.cs
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.csproj.CoreCompileInputs.cache
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.dll
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\refint\RadioChannels.dll
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.pdb
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\RadioChannels.genruntimeconfig.cache
+C:\Users\ESAD\source\repos\RadioChannels\RadioChannels\obj\Debug\net6.0\ref\RadioChannels.dll
